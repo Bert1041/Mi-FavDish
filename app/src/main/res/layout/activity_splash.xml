@@ -13,9 +13,8 @@
         android:layout_height="wrap_content"
         android:text="@string/splash_screen_title"
         android:textColor="@color/white"
-        android:textSize="45dp"
+        android:textSize="45sp"
         android:fontFamily="cursive"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
