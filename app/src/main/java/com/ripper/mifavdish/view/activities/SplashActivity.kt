@@ -1,4 +1,4 @@
-package com.ripper.mifavdish
+package com.ripper.mifavdish.view.activities
 
 import android.content.Intent
 import android.os.Build
@@ -11,6 +11,7 @@ import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import androidx.annotation.RequiresApi
+import com.ripper.mifavdish.R
 import com.ripper.mifavdish.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {

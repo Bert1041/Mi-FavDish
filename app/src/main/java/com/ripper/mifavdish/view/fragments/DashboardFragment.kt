@@ -1,4 +1,4 @@
-package com.ripper.mifavdish.ui.dashboard
+package com.ripper.mifavdish.view.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.ripper.mifavdish.R
 import com.ripper.mifavdish.databinding.FragmentDashboardBinding
+import com.ripper.mifavdish.viewmodel.DashboardViewModel
 
 class DashboardFragment : Fragment() {
 
